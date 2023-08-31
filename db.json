@@ -1,12 +1,13 @@
 {
   "AB": {
     "A": {
-      "U": "1",
-      "onoff": 0,
+      "U": "https://www.rollsun.com/AKebfmg",
+      "onoff": 1,
       "isios": 0,
       "iosU": "1",
       "Area": [
-        "HK"
+        "HK",
+        "CN"
       ],
       "Event": [
         "1"
